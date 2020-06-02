@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v/GtQBCC7oYfEi5Zn0BPvcJPayKI8DD2gfJBQNa808Vn/LQR+f7bdzqcHx9CIgDbJ3lpwoeZ5Mv1ELPnAefXFA==",
+  "dgSpecHash": "4OnXggt1kybxoRGQskGftFw1ouVCVJLHgkBq6JCFO9HWa9BI9XgVWiy5oEpEUOR6nvrtJ5SXwYWI6nOqEumY2g==",
   "success": true,
-  "projectFilePath": "C:\\Romulo\\Source\\IdentityServer4\\IdentityServer4\\IdentityServer4.MVC\\IdentityServer4.MVC.csproj",
+  "projectFilePath": "C:\\Romulo\\Source\\IdentityServer4\\FirstTry\\IdentityServer4.MVC\\IdentityServer4.MVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KWAN\\.nuget\\packages\\identitymodel\\4.1.1\\identitymodel.4.1.1.nupkg.sha512",
     "C:\\Users\\KWAN\\.nuget\\packages\\identityserver4\\3.1.3\\identityserver4.3.1.3.nupkg.sha512",

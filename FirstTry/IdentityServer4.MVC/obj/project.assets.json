@@ -6135,11 +6135,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Romulo\\Source\\IdentityServer4\\IdentityServer4\\IdentityServer4.MVC\\IdentityServer4.MVC.csproj",
+      "projectUniqueName": "C:\\Romulo\\Source\\IdentityServer4\\FirstTry\\IdentityServer4.MVC\\IdentityServer4.MVC.csproj",
       "projectName": "IdentityServer4.MVC",
-      "projectPath": "C:\\Romulo\\Source\\IdentityServer4\\IdentityServer4\\IdentityServer4.MVC\\IdentityServer4.MVC.csproj",
+      "projectPath": "C:\\Romulo\\Source\\IdentityServer4\\FirstTry\\IdentityServer4.MVC\\IdentityServer4.MVC.csproj",
       "packagesPath": "C:\\Users\\KWAN\\.nuget\\packages\\",
-      "outputPath": "C:\\Romulo\\Source\\IdentityServer4\\IdentityServer4\\IdentityServer4.MVC\\obj\\",
+      "outputPath": "C:\\Romulo\\Source\\IdentityServer4\\FirstTry\\IdentityServer4.MVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

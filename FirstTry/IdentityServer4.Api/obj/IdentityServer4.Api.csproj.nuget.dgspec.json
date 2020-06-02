@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Romulo\\Source\\IdentityServer4\\IdentityServer4\\IdentityServer4.Server\\IdentityServer4.Server.csproj": {}
+    "C:\\Romulo\\Source\\IdentityServer4\\FirstTry\\IdentityServer4.Api\\IdentityServer4.Api.csproj": {}
   },
   "projects": {
-    "C:\\Romulo\\Source\\IdentityServer4\\IdentityServer4\\IdentityServer4.Server\\IdentityServer4.Server.csproj": {
+    "C:\\Romulo\\Source\\IdentityServer4\\FirstTry\\IdentityServer4.Api\\IdentityServer4.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Romulo\\Source\\IdentityServer4\\IdentityServer4\\IdentityServer4.Server\\IdentityServer4.Server.csproj",
-        "projectName": "IdentityServer4.Server",
-        "projectPath": "C:\\Romulo\\Source\\IdentityServer4\\IdentityServer4\\IdentityServer4.Server\\IdentityServer4.Server.csproj",
+        "projectUniqueName": "C:\\Romulo\\Source\\IdentityServer4\\FirstTry\\IdentityServer4.Api\\IdentityServer4.Api.csproj",
+        "projectName": "IdentityServer4.Api",
+        "projectPath": "C:\\Romulo\\Source\\IdentityServer4\\FirstTry\\IdentityServer4.Api\\IdentityServer4.Api.csproj",
         "packagesPath": "C:\\Users\\KWAN\\.nuget\\packages\\",
-        "outputPath": "C:\\Romulo\\Source\\IdentityServer4\\IdentityServer4\\IdentityServer4.Server\\obj\\",
+        "outputPath": "C:\\Romulo\\Source\\IdentityServer4\\FirstTry\\IdentityServer4.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -41,9 +41,9 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
-            "IdentityServer4": {
+            "IdentityServer4.AccessTokenValidation": {
               "target": "Package",
-              "version": "[3.1.3, )"
+              "version": "[3.0.1, )"
             }
           },
           "imports": [

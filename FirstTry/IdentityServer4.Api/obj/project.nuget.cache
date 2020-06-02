@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jB1Cx+6xfRKnvh7cuySwD4c0ZqtqK55J7JDKSOJsrTNAb2cj4XgmSZgIT3MKMdGXBTcnqGl7R2YnEqDhe/t9og==",
+  "dgSpecHash": "Olva1zZk2jBLtvDI1Jexi4rfTERSIofEAfMCpD0VUlhksWQ4k7Po9bZVxe99tJGT7N7iWF7PMXT4dW1BL+ll+g==",
   "success": true,
-  "projectFilePath": "C:\\Romulo\\Source\\IdentityServer4\\IdentityServer4\\IdentityServer4.Api\\IdentityServer4.Api.csproj",
+  "projectFilePath": "C:\\Romulo\\Source\\IdentityServer4\\FirstTry\\IdentityServer4.Api\\IdentityServer4.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KWAN\\.nuget\\packages\\identitymodel\\4.0.0\\identitymodel.4.0.0.nupkg.sha512",
     "C:\\Users\\KWAN\\.nuget\\packages\\identitymodel.aspnetcore.oauth2introspection\\4.0.1\\identitymodel.aspnetcore.oauth2introspection.4.0.1.nupkg.sha512",
