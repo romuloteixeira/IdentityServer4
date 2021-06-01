@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "VCkIOLmqjLVYfdi5pO4cuCRFgVYATWBUjgrUskqCcbN2bIZmIQacBkz0LEo9u+j0x9iUuQ1lt60MYdNiDYqBjw==",
+  "dgSpecHash": "zYf9uH2ZC82aFH5/UzWPIqb+JCISojdFZjTh18O6eegM/XouJ8fXyHkXg7mFcKwpo7OkD0Itr79rRuBkcaWB5w==",
   "success": true,
   "projectFilePath": "C:\\Romulo\\Source\\IdentityServer4\\FirstTry\\IdentityServer4.Server\\IdentityServer4.Server.csproj",
   "expectedPackageFiles": [
@@ -16,7 +16,8 @@
     "C:\\Users\\KWAN\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
     "C:\\Users\\KWAN\\.nuget\\packages\\system.identitymodel.tokens.jwt\\5.5.0\\system.identitymodel.tokens.jwt.5.5.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
-    "C:\\Users\\KWAN\\.nuget\\packages\\system.text.encodings.web\\4.6.0\\system.text.encodings.web.4.6.0.nupkg.sha512"
+    "C:\\Users\\KWAN\\.nuget\\packages\\system.text.encodings.web\\4.6.0\\system.text.encodings.web.4.6.0.nupkg.sha512",
+    "C:\\Users\\KWAN\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
   "logs": []
 }

@@ -6,7 +6,7 @@ namespace IdentityServer4.Api.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    [Authorize]
+    //[Authorize]
     public class IdentityController : ControllerBase
     {
         [HttpGet]

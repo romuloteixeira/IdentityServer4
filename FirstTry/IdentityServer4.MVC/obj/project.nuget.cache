@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4OnXggt1kybxoRGQskGftFw1ouVCVJLHgkBq6JCFO9HWa9BI9XgVWiy5oEpEUOR6nvrtJ5SXwYWI6nOqEumY2g==",
+  "dgSpecHash": "LmNNpl7h8WTgNptL1+TCC6v2YN/unMePCj0CZWxUjRcF8YyhOflC5gE0QI7bcqydxLfpFR2clhQHnde/vZ8ZzQ==",
   "success": true,
   "projectFilePath": "C:\\Romulo\\Source\\IdentityServer4\\FirstTry\\IdentityServer4.MVC\\IdentityServer4.MVC.csproj",
   "expectedPackageFiles": [
@@ -125,7 +125,8 @@
     "C:\\Users\\KWAN\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\KWAN\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\KWAN\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
   "logs": []
 }
